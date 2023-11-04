@@ -1,0 +1,31 @@
+{
+  "doctors": [
+    {
+      "name": "Dugyala shravya",
+      "salary": "300000",
+      "gender": "Female",
+      "age": "21",
+      "specialization": "cardio",
+      "id": 1
+    },
+    {
+      "name": "Dugyala Madhukar Rao",
+      "salary": "600000",
+      "gender": "Male",
+      "age": "45",
+      "specialization": "eye",
+      "id": 2
+    }
+  ],
+  "patients": [
+    {
+      "name": "Dugyala sahithi",
+      "salary": "55",
+      "gender": "Female",
+      "age": "21",
+      "specialization": "heart",
+      "doctor": "Dugyala shravya",
+      "id": 1
+    }
+  ]
+}
